@@ -52,4 +52,6 @@ The final version of the app is functional and visually appealing, providing use
 
 Overall, this internship project allowed me to apply my technical knowledge in a practical scenario, and I am excited to keep improving and expanding the app’s functionality.
 ***
+##OUTPUT
+![Image](https://github.com/user-attachments/assets/49a6b3c5-e602-4aae-a715-aab1e2fadf40)
 
